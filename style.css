@@ -1,0 +1,33 @@
+h1 {
+	text-align: left;
+	color: skyblue;
+}
+
+.feddyfivebear{
+	width: 300px;
+	height: 400px;
+	object-fit: cover;
+	border-radius: 50%;
+
+}
+
+body{
+	background-image:url(https://res.cloudinary.com/lmn/image/upload/fl_lossy,q_80/f_auto/v1/gameskinny/548e083ed4f62a16810595a27096da6a.jpg);
+}
+
+h2{
+	color: deepskyblue;
+}
+
+p, li, span {
+	color: deepskyblue;
+}
+
+ul{
+ 	color: lightskyblue;
+}
+
+a{
+	color: crimson;
+	text-align: right;
+}
